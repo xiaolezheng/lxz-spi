@@ -12,7 +12,6 @@ public class FileSearch implements Search{
     @Override
     public List<String> search(String keyWord) {
         log.info("file search");
-        System.out.println("file search");
         return null;
     }
 }
